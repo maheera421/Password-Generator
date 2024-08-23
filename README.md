@@ -36,6 +36,3 @@ This code is a Password Generator that allows users to create strong, randomized
 
 - The final password is displayed to the user.
 
-# 📝 Note:
-
-Please note that the external file `data` is not included in the code posted on GitHub. Users who wish to run this code will need to request access to the `data` module separately to ensure the full functionality of the Password Generator.
